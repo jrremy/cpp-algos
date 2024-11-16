@@ -1,7 +1,3 @@
-/* Name: Jeremy Davoodzadeh
- * Assignment: n Queens using dynamic memory
- */
-
 #include <iostream>
 #include <cmath>
 using namespace std;

@@ -1,7 +1,3 @@
-/* Name: Jeremy Davoodzadeh
- * Assignment: Non-recursive Towers of Hanoi
- */
-
 #include <iostream>
 #include <vector>
 using namespace std;

@@ -1,7 +1,3 @@
-/* Name: Jeremy Davoodzadeh
-* Assignment 1
-*/
-
 #include <iostream>
 
 using namespace std;

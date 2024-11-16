@@ -1,7 +1,3 @@
-/* Name: Jeremy Davoodzadeh
- * Assignment: Integration with function pointers
- */
-
 #include <iostream>
 using namespace std;
 

@@ -1,7 +1,3 @@
-/* Name: Jeremy Davoodzadeh
- * Assignment: Fancy queens 1D with nested while loops
- */
-
 #include <iostream>
 #include <cmath>
 using namespace std;
